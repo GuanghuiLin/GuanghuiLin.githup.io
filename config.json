@@ -1,6 +1,6 @@
 {
     "name": "guanghuilin",
-    "repo": "guanghuilin.github.io",
+    "repo": "blog",
     "client_id": "88fca086be958f60df61",
     "client_secret": "6e690ed7f4358dd70ff110f3154ced5e34453d78",
     "title": "奔腾的大熊",
@@ -19,7 +19,7 @@
     "icons": {
         "Github" : {
             "icon_src" : "images/github.svg",
-            "href" : "https://github.com/GuanghuiLin/guanghuilin.github.io",
+            "href" : "https://github.com/GuanghuiLin/blog",
             "hidden_img" : null,
             "width" : 0
         }
