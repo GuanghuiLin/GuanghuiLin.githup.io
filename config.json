@@ -14,9 +14,7 @@
         "首页":"./"
     },
     "friends": {
-         "gofind" : "http://gofind.cn" ,
-         "若依" : "http://ruiyi.gofind.cn ,
-         "宝塔" : "http://baota.gofind.cn"
+         "gofind" : "http://gofind.cn" 
     },
     "icons": {
         "Github" : {
