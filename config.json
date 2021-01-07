@@ -4,7 +4,7 @@
     "client_id": "88fca086be958f60df61",
     "client_secret": "6e690ed7f4358dd70ff110f3154ced5e34453d78",
     "title": "奔腾的大熊",
-    "instruction": "基于GitHub issue的个人博客模板",
+    "instruction": "还记得那年那月那日夕阳下的奔跑，那是我逝去的青春",
     "server_link": "http://ruoyi.gofind.cn",
     "filter": {
         "creator": "all",
@@ -14,7 +14,9 @@
         "首页":"./"
     },
     "friends": {
-        "gofind" : "http://gofind.cn"
+         "gofind" : "http://gofind.cn" ,
+         "若依" : "http://ruiyi.gofind.cn ,
+         "宝塔" : "http://baota.gofind.cn"
     },
     "icons": {
         "Github" : {
